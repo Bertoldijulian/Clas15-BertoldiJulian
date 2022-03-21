@@ -1,0 +1,33 @@
+.borde {
+    border-radius: 2px;
+    background: black;
+    padding: 2px 0px;
+    color: white;
+}
+
+footer {
+    width: 100%;
+    height: 100px;
+    padding: 20px 80px;
+    margin: 0;
+    text-align: center;
+}
+
+.button {
+    position: fixed;
+    bottom: 90px;
+    right: 20px;
+}
+
+.button1 {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+footer div p {
+    margin-top: 30px;
+    font-family: 'Bitter', serif;
+    color: black;
+    font-weight: bold;
+}

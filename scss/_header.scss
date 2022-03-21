@@ -1,0 +1,52 @@
+header {
+    width: 100vw;
+    height: 100vh;
+    background-image: url(../multimedia/fondo.jpg);
+    background-position: bottom;
+    background-size: cover;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header-content {
+    margin-top: 60px;
+    margin-bottom: 265px;
+    text-align: center;
+    
+}
+.header-content h2 {
+    font-size: 6vmin;
+    font-family: 'Bitter', serif;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 30px;
+}
+
+.line {
+    width: 150px;
+    height: 4px;
+    background: #fc036b;
+    margin: 10px auto;
+    border-radius: 5px;
+}
+
+.header-content h1 {
+    font-size: 9vmin;
+    margin-top: 30px;
+    font-family: 'Bitter', serif;
+    font-weight: bolder;
+    color: black;
+}
+
+.ctn {
+    padding: 8px 15px;
+    background: #fc036b;
+    border-radius: 30px;
+    color: whitesmoke;
+} 
+

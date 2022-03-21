@@ -1,0 +1,73 @@
+[
+    {
+        "_id": 1,
+        "actividad": "Circuito Chico Excursion - Lagos y Montañas",
+        "precio": 2200,
+        "duracion": "4hs",
+        "informacion": "Es un paseo de medio día, que bordea la ladera sur del Lago Nahuel Huapi, con un recorrido de aproximadamente 65 km. A través de su camino podremos pasar por playas como Playa Bonita o Bahia Serena, algunos miradores naturales, como Bahía López y Punto Panorámico, que son sin dudas los lugares ideales para contemplar lo maravilloso del paisaje; desde allí podrás observar la aerosilla del Cerro Campanario, la bahía Llao Llao, el Puerto Pañuelo, entre otras vistas fascinantes. Podrás conocer Puerto Pañuelo, el Hotel Llao Llao y la Capilla San Eduardo, que son atractivos singulares para el visitante",
+        "img": ""
+    },
+    
+    {
+        "_id": 2,
+        "actividad": "Circuito Grande y Villa Traful",
+        "precio": 5500,
+        "duracion": "9hs",
+        "informacion": "Saliendo desde Bariloche hacia la zona norte del PN Nahuel Huapi, se transita por la RN 237. Se bordea el Río Limay, pasando por el llamado Anfiteatro, que se asemeja por sus formas a un gran circo romano. Desde allí iremos al Valle Encantado, donde se pueden ver extrañas figuras rocosas que por sus formas se han denominado: dedo de dios, centinela, tren expreso, los siameses, entre otros. Más adelante se encuentra Confluencia, donde se unen los ríos Traful y Limay. A través de hermosos bosques de coihues se bordeará el lago Traful, pasando por mirador del Traful: acantilado de más de 70 metros sobre el lago. Luego de un descanso en la villa, el paseo continúa. Tomamos la Ruta de los 7 Lagos al sur para llegar al cruce de Villa la Angostura. Pasando luego por Puerto Manzano y mientras se bordea el Brazo Huemul se transita un camino con varias elevaciones, empalmando luego la RN 237 por donde se regresa a Bariloche.",
+        "img": ""
+    },
+
+    {
+        "_id": 3,
+        "actividad": "Paseo en barco e Isla Victoria y Bosque de Arrayanes",
+        "precio": 6450,
+        "duracion": "5hs",
+        "informacion": "Durante el viaje podrás maravillarte con los paisajes que verás a tu alrededor. En el recorrido realizarás una parada en la Península de Quetrihué (“lugar de arrayanes” en lengua mapuche) donde podrás apreciar la belleza del único bosque de arrayanes del mundo. Desembarcarás en Puerto Anchorena para recorrer la Isla Victoria, donde podrás visitar un vivero de coníferas, recorrer hermosos senderos y disfrutar de increíbles vistas panorámicas en algunos de los miradores.",
+        "img": ""
+    },
+    
+    {
+        "_id": 4,
+        "actividad": "Cabalgata en la Estepa Patagónica",
+        "precio": 12764,
+        "duracion": "6hs",
+        "informacion": "Las cabalgatas tienen lugar en la Estancia San Ramón, que se ubica a unos 30 kilómetros por la Ruta Nacional 23 hacia el este de San Carlos de Bariloche. Esta estancia, de 25.000 hectáreas en la zona precordillera, se dedica a la ganadería y a la producción de lana y es una de las estancias más antiguas de la Patagonia.",
+        "img": ""
+    },
+
+    {
+        "_id": 5,
+        "actividad": "Rafting Río Limay",
+        "precio": 7300,
+        "duracion": "4hs",
+        "informacion": "La excursión parte desde el lugar de alojamiento de Bariloche, luego de 30 min. de viaje por la RN 40. se arriba al Paraje Rincón Chico del Río Limay, donde los guías de rafting recibirán a los pasajeros e inmediatamente comenzará la coordinación de cada una de las balsas con su respectivo guía, quienes, después de la bienvenida comenzará, a impartir al grupo una charla técnica donde se les señalan unas breves instrucciones acerca de las técnicas para remar, para practicar un rescate y las normas de seguridad que deberán ser tenidas en cuenta. Toda la travesía de bajada del río en entorno a un escenario majestuoso , rodeado de montañas y fauna patagónica. En las aguas cristalinas se podrán ver las truchas más grandes de los ríos andinos de la zona. Es una excursión muy tranquila que permite disfrutar de la paz y placer que provoca estar en un ambiente natural. La navegación termina en el Paraje Villa Llanquin/ opción Rincón de Creide (siempre depende de las costas del río). Se servirá un reparador snack. Finalmente los pasajeros regresan a los alojamientos correspondientes.",
+        "img": ""
+    },
+
+    {
+        "_id": 6,
+        "actividad": "Caminata Brazo Tristeza",
+        "precio": 3880,
+        "duracion": "4hs",
+        "informacion": "El sendero parte desde el estacionamiento de Bahía López (Km 32 del “Circuito Chico”) ubicado junto al Hotel Alun Nehuen perteneciente al Sindicato de Luz y Fuerza. Todo el camino transita por el bosque y presenta una leve pendiente. Después de caminar unos 40 minutos se llega a un promontorio natural desde el cual se observa el Brazo Tristeza del Lago Nahuel Huapi y el Cerro Capilla. En el mirador hay que mantenerse alejados de la zona de acantilado y prestar especial atención a los niños. Se regresa al lugar de inicio por el mismo sendero.",
+        "img": ""
+    },
+
+    {
+        "_id": 7,
+        "actividad": "San Martín de los Andes por la Ruta de los 7 Lagos",
+        "precio": 5000,
+        "duracion": "10hs",
+        "informacion": "Saliendo desde Bariloche, transitarás por el camino de los siete lagos que en todo su recorrido te deslumbrará con paisajes incomparables. Conocerás Villa La Angostura, una verdadera villa de montaña, caracterizada por su típica arquitectura andina. Una vez comiences a recorrer el camino de los 7 lagos, conocerás los lagos Correntoso, el Espejo, el Escondido, el Villarino, el Falkner, el Hermoso y el Machonico. Cada uno de los lagos posee una atracción paisajística única, rodeados de bosques milenarios y frondosos. Una vez en San Martin de los Andes, sobre la orilla del Lago Lacar, podrás recorrer la ciudad y visitar un mirador.",
+        "img": ""
+    },
+
+    {
+        "_id": 8,
+        "actividad": "Aerosilla Cerro Campanario",
+        "precio": 1375,
+        "duracion": "1hs",
+        "informacion": "Es uno de los Cerros que no debemos dejar de conocer cuando visitamos Bariloche. Además en la cumbre a 1.050 metros sobre el nivel del mar cuenta con una confitería haciendo, sin lugar a dudas, la mejor vista panorámica de toda la ciudad. El Cerro Campanario permite apreciar una de las más bellas y fascinantes vistas de la región de los lagos: Nahuel Huapi, Perito Moreno, Laguna El Trébol, Penínsulas San Pedro y Llao Llao, Isla Victoria. Divisaremos también los cerros Otto, López, Goye, Catedral, Capilla y el maravilloso entorno cordillerano de la ciudad de San Carlos de Bariloche.",
+        "img": ""
+    }
+]

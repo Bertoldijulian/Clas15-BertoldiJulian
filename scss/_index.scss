@@ -1,0 +1,79 @@
+section {
+    width: 80%;
+    margin: 80px auto;
+}
+.title h4 {
+    text-align: center;
+    font-family: 'Bitter', serif;
+    font-weight: bold;
+    font-size: 4vmin;
+    color: black;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.row .col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.actividades .row {
+    margin-top: 50px;
+}
+
+.actividades img {
+    width: 100%;
+    margin-bottom: 20px;
+    height: 400px;
+}
+
+h5 {
+    font-size: 3vmin;
+    font-family: 'Bitter', serif;
+    font-weight: bold;
+    color: black;
+    margin: 20px auto;
+}
+
+p {
+    color: rgb(73, 73, 73);
+    padding: 0px 40px;
+}
+
+.actividades .ctn {
+    margin-top: 30px;
+}
+
+body, html {
+    overflow-x: hidden;
+}
+
+.content-col {
+    width: 50%;
+} 
+
+.hoteles .img-gallery{
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 30px;
+    
+}
+
+.content-col h4 {
+    font-size: 4vmin;
+    font-family: 'Bitter', serif;
+    font-weight: bold;
+    color: black;
+    margin: 10px auto;
+}
+
+.carrusel {
+    width: 90%;
+    margin: 20px auto;
+}
